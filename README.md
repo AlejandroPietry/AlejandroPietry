@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Languages and Tools:** 
+
+<code><img src="https://app.bossabox.com/img/skillsLogos/dot-net.svg"></code>
+<code><img src="https://app.bossabox.com/img/skillsLogos/csharp.svg"></code>
+<code><img src="https://app.bossabox.com/img/skillsLogos/javascript.svg"></code>
