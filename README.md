@@ -1,8 +1,6 @@
 <h3 align='center'><samp><strong>Alejandro Pietry</strong>👋</samp></h3>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejohns0n&label=Profile%20views&color=0e75b6&style=flat" alt="alejohns0n" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro pietry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandro pietry" height="30" width="40" /></a>
