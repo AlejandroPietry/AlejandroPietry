@@ -14,7 +14,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/alejandro pietry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandro pietry" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-pietry-5383a3175" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandro pietry" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejohns0n&show_icons=true&locale=en&layout=compact" alt="alejohns0n" /></p>
